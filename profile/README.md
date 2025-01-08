@@ -7,7 +7,7 @@ Ce projet, au cœur de notre mission, vise à créer une plateforme moderne et r
 ## Project Contributors
 
 - *Ouail Laamiri* - Chef de projet et développeur full stack
-- *Hajar Sadik* - Expert DevOps
+- *Hajar Sadik* - développeur full stack et Expert DevOps
 - *Ziad Ben Saada* - Spécialiste Blockchain
 - *Samir Ziani* - Professionnel du Machine Learning pour le développement d'un système de recommandation
 
